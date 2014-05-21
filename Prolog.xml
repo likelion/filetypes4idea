@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<filetype binary="false" default_extension="" description="Prolog" name="Prolog">
+<filetype binary="false" default_extension="" description="SWI Prolog 6.6.5" name="Prolog">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="%" />
